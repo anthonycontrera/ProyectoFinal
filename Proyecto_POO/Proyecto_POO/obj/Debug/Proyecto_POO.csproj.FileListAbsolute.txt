@@ -1,0 +1,16 @@
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.FrmMenu.resources
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.CoreCompileInputs.cache
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.Programa1.resources
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.Programa2.resources
+C:\Users\e.santos\source\repos\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.Programa3.resources
+C:\Users\anthony.contrera\Desktop\Proyecto de Programacion OB\Proyecto_POO\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\anthony.contrera\Desktop\Proyecto de Programacion OB\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\anthony.contrera\Desktop\Proyecto de Programacion OB\Proyecto_POO\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
